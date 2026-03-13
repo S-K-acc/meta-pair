@@ -3,7 +3,7 @@
 This repository contains code, data and neural models for the methods presented in:
 
 **Metadensity functional learning for classical fluids: Regularizing with pair correlations**  
-*Stefanie M. Kampa, Florian Sammüller and Matthias Schmidt*
+*Stefanie M. Kampa, Florian Sammüller and Matthias Schmidt; [arXiv:2603.11973](http://arxiv.org/abs/2603.11973).* 
 
 
 ## Instructions
